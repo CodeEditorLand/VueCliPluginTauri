@@ -4,10 +4,10 @@
 	"main": "index.js",
 	"scripts": {},
 	"dependencies": {
-		"@tauri-apps/cli": "1.0.3"
+		"@tauri-apps/cli": "1.5.14"
 	},
 	"devDependencies": {
 		"lnk": "1.1.0",
-		"rimraf": "3.0.0"
+		"rimraf": "5.0.7"
 	}
 }
