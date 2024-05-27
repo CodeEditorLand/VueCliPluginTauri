@@ -1,13 +1,28 @@
 {
-	"name": "vue-cli-plugin-tauri",
-	"description": "A Vue CLI plugin for rigging Tauri",
-	"main": "index.js",
-	"scripts": {},
-	"dependencies": {
-		"@tauri-apps/cli": "1.5.14"
-	},
-	"devDependencies": {
-		"lnk": "1.1.0",
-		"rimraf": "5.0.7"
-	}
+  "name": "vue-cli-plugin-tauri",
+  "version": "1.0.0",
+  "description": "A Vue CLI plugin for rigging Tauri",
+  "main": "index.js",
+  "author": "Noah Klayman <noahklayman@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest",
+    "pretest": "rimraf __tests__/temp_projects/*"
+  },
+  "dependencies": {
+    "@tauri-apps/cli": "^1.0.3",
+    "@vue/cli-shared-utils": "^4.1.1"
+  },
+  "devDependencies": {
+    "@vue/cli": "^4.1.1",
+    "@vue/cli-plugin-babel": "^4.1.1",
+    "@vue/cli-service": "^4.1.1",
+    "@vue/cli-test-utils": "^4.1.1",
+    "jest": "^24.9.0",
+    "lnk": "^1.1.0",
+    "rimraf": "^3.0.0",
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.12"
+  }
 }
