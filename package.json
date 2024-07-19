@@ -4,7 +4,7 @@
 	"main": "index.js",
 	"scripts": {},
 	"dependencies": {
-		"@tauri-apps/cli": "1.6.0"
+		"@tauri-apps/cli": "2.0.0-beta.22"
 	},
 	"devDependencies": {
 		"lnk": "1.1.0",
