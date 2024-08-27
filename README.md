@@ -10,7 +10,7 @@ Just like [Vue CLI](https://cli.vuejs.org/) itself, this plugin is now
 **deprecated** and won't receive any updates anymore. Please migrate to
 [`@tauri-apps/cli`](https://www.npmjs.com/package/@tauri-apps/cli).
 
-## Installation
+## 🚀 Installation
 
 Please visit the [documentation website](https://tauri.app) or our
 [discord server](https://discord.gg/tauri) if you have any problems.
