@@ -1,25 +1,20 @@
 # vue-cli-plugin-tauri
 
-> [Tauri](https://tauri.app) is a toolkit for creating smaller, faster, and more
-> secure desktops applications with a web frontend. This plugin configures Tauri
-> to work in your Vue CLI project.
+> [Tauri](https://tauri.app) is a toolkit for creating smaller, faster, and more secure desktops applications with a web frontend. This plugin configures Tauri to work in your Vue CLI project.
 
 ## Deprecation Notice
 
-Just like [Vue CLI](https://cli.vuejs.org/) itself, this plugin is now
-**deprecated** and won't receive any updates anymore. Please migrate to
-[`@tauri-apps/cli`](https://www.npmjs.com/package/@tauri-apps/cli).
+Just like [Vue CLI](https://cli.vuejs.org/) itself, this plugin is now **deprecated** and won't receive any updates anymore. Please migrate to [`@tauri-apps/cli`](https://www.npmjs.com/package/@tauri-apps/cli).
 
-## 🚀 Installation
+## Installation
 
-Please visit the [documentation website](https://tauri.app) or our
-[discord server](https://discord.gg/tauri) if you have any problems.
+Please visit the [documentation website](https://tauri.app) or our [discord server](https://discord.gg/tauri) if you have any problems.
 
 ### General Prerequisites:
 
--   NodeJS/npm
--   Vue CLI (`yarn global add @vue/cli` / `npm i -g @vue/cli`)
--   [Rust/Cargo](https://www.rust-lang.org/)
+- NodeJS/npm
+- Vue CLI (`yarn global add @vue/cli` / `npm i -g @vue/cli`)
+- [Rust/Cargo](https://www.rust-lang.org/)
 
 ### Detailed Prerequisite Installation Instructions:
 
