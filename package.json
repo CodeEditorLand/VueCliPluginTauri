@@ -1,11 +1,11 @@
 {
 	"dependencies": {
-		"@tauri-apps/cli": "^1.0.3"
+		"@tauri-apps/cli": "2.0.0-rc.16"
 	},
 	"description": "A Vue CLI plugin for rigging Tauri",
 	"devDependencies": {
-		"lnk": "^1.1.0",
-		"rimraf": "^3.0.0"
+		"lnk": "1.1.0",
+		"rimraf": "6.0.1"
 	},
 	"main": "index.js",
 	"name": "vue-cli-plugin-tauri",
