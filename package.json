@@ -1,13 +1,13 @@
 {
-	"dependencies": {
-		"@codeeditorland/cli": "2.1.0"
-	},
+	"name": "vue-cli-plugin-tauri",
 	"description": "A Vue CLI plugin for rigging Tauri",
+	"main": "index.js",
+	"scripts": {},
+	"dependencies": {
+		"@codeeditorland/cli": "0.0.1"
+	},
 	"devDependencies": {
 		"lnk": "1.1.0",
 		"rimraf": "6.0.1"
-	},
-	"main": "index.js",
-	"name": "vue-cli-plugin-tauri",
-	"scripts": {}
+	}
 }
